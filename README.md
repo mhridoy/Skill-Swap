@@ -26,7 +26,7 @@ Users can follow other users, join interest groups, and participate in forum dis
 # Technologies & Tools:
 
 1. Django (Backend)
-2. PostgreSQL (Database)
+2. SQLite3 (Database)
 3. React.js or Vue.js (Frontend)
 4. Django REST framework (API)
 5. Elasticsearch (Search)
