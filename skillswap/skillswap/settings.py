@@ -33,7 +33,6 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'users',
     'accounts',
-    'social-django',
     'profiles',
     'skills',
     'swaps',
